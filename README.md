@@ -1,5 +1,5 @@
 # RabbitMQ Sharding Plugin
-
+jjjj
 This plugin introduces the concept of sharded queues for
 RabbitMQ. Sharding is performed by exchanges, that is, messages
 will be partitioned across "shard" queues by one exchange that we should
